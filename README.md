@@ -1,2 +1,3 @@
 # hello-world
-testing things
+ 
+this is a txt file about learning how to use basic github features.
